@@ -52,9 +52,9 @@ Ensure you have the following installed:
     npm run server 
     ```
 or 
-    ```bash
+```bash
    npx json-server --port=3001 --watch db.json
-     ```
+  ```
      
 Open your browser and go to : http://localhost:3001/persons.
 
